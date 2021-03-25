@@ -176,6 +176,7 @@ section {
   }
 
   .nav_anchor {
+    font-size: 2rem;
     padding: 21px 5px;
   }
 }
